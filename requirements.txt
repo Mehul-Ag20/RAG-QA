@@ -1,0 +1,13 @@
+gradio>=4.0.0
+langchain>=0.0.267
+langchain_community>=0.0.11
+transformers>=4.30.2
+sentence-transformers>=2.2.2
+torch>=2.0.1
+accelerate>=0.23.0
+bitsandbytes>=0.41.0
+chromadb>=0.4.15
+pypdf>=3.15.0
+docx2txt>=0.8
+huggingface_hub>=0.16.4
+einops>=0.6.1
